@@ -6,11 +6,13 @@ define('TEMPLATE_PATH', 'templates');
 define('BASE_TEMPLATE_PATH', 'templates/base.php');
 define('STATIC_PATH', '/static');
 define('CLASS_PATH', 'asazh\\mvc\\core');
+
+#your DB credentials
 define('DB_CONN', [
-    'name' => 'test_db',
-    'host' => 'localhost',
-    'user' => 'test_user',
-    'pass' => '10011964'
+    'name' => '',
+    'host' => '',
+    'user' => '',
+    'pass' => ''
 ]);
 
 
