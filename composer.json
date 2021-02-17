@@ -1,0 +1,16 @@
+{
+    "name": "asazh/mvc",
+    "description": "My first mvc",
+    "authors": [
+        {
+            "name": "asazharm",
+            "email": "as.zh.mi.27@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "asazh\\mvc\\": "app"
+        }
+    }
+}
